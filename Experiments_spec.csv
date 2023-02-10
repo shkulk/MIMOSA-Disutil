@@ -1,0 +1,49 @@
+exp_num,welfare_module,carbon_budget,disutility_damage_factor,COACCH_damage_quantile
+1,inequal_aversion_elasmu,False,2,0.05
+2,inequal_aversion_elasmu,False,2,0.5
+3,inequal_aversion_elasmu,False,2,0.75
+4,inequal_aversion_elasmu,False,2,0.95
+5,inequal_aversion_elasmu,False,3,0.05
+6,inequal_aversion_elasmu,False,3,0.5
+7,inequal_aversion_elasmu,False,3,0.75
+8,inequal_aversion_elasmu,False,3,0.95
+9,inequal_aversion_elasmu,633.829 GtCO2,2,0.05
+10,inequal_aversion_elasmu,633.829 GtCO2,2,0.5
+11,inequal_aversion_elasmu,633.829 GtCO2,2,0.75
+12,inequal_aversion_elasmu,633.829 GtCO2,2,0.95
+13,inequal_aversion_elasmu,633.829 GtCO2,3,0.05
+14,inequal_aversion_elasmu,633.829 GtCO2,3,0.5
+15,inequal_aversion_elasmu,633.829 GtCO2,3,0.75
+16,inequal_aversion_elasmu,633.829 GtCO2,3,0.95
+17,inequal_aversion_elasmu,1344 GtCO2,2,0.05
+18,inequal_aversion_elasmu,1344 GtCO2,2,0.5
+19,inequal_aversion_elasmu,1344 GtCO2,2,0.75
+20,inequal_aversion_elasmu,1344 GtCO2,2,0.95
+21,inequal_aversion_elasmu,1344 GtCO2,3,0.05
+22,inequal_aversion_elasmu,1344 GtCO2,3,0.5
+23,inequal_aversion_elasmu,1344 GtCO2,3,0.75
+24,inequal_aversion_elasmu,1344 GtCO2,3,0.95
+25,inequal_aversion_elasmu_disutil,False,2,0.05
+26,inequal_aversion_elasmu_disutil,False,2,0.5
+27,inequal_aversion_elasmu_disutil,False,2,0.75
+28,inequal_aversion_elasmu_disutil,False,2,0.95
+29,inequal_aversion_elasmu_disutil,False,3,0.05
+30,inequal_aversion_elasmu_disutil,False,3,0.5
+31,inequal_aversion_elasmu_disutil,False,3,0.75
+32,inequal_aversion_elasmu_disutil,False,3,0.95
+33,inequal_aversion_elasmu_disutil,633.829 GtCO2,2,0.05
+34,inequal_aversion_elasmu_disutil,633.829 GtCO2,2,0.5
+35,inequal_aversion_elasmu_disutil,633.829 GtCO2,2,0.75
+36,inequal_aversion_elasmu_disutil,633.829 GtCO2,2,0.95
+37,inequal_aversion_elasmu_disutil,633.829 GtCO2,3,0.05
+38,inequal_aversion_elasmu_disutil,633.829 GtCO2,3,0.5
+39,inequal_aversion_elasmu_disutil,633.829 GtCO2,3,0.75
+40,inequal_aversion_elasmu_disutil,633.829 GtCO2,3,0.95
+41,inequal_aversion_elasmu_disutil,1344 GtCO2,2,0.05
+42,inequal_aversion_elasmu_disutil,1344 GtCO2,2,0.5
+43,inequal_aversion_elasmu_disutil,1344 GtCO2,2,0.75
+44,inequal_aversion_elasmu_disutil,1344 GtCO2,2,0.95
+45,inequal_aversion_elasmu_disutil,1344 GtCO2,3,0.05
+46,inequal_aversion_elasmu_disutil,1344 GtCO2,3,0.5
+47,inequal_aversion_elasmu_disutil,1344 GtCO2,3,0.75
+48,inequal_aversion_elasmu_disutil,1344 GtCO2,3,0.95

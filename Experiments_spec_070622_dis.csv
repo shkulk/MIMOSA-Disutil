@@ -1,0 +1,136 @@
+exp_num,welfare_module,carbon_budget,disutility_damage_factor,COACCH_damage_quantile,prtp,damage_scale_factor
+1,inequal_aversion_elasmu_disutil,False,1,0.05,0.001,1
+2,inequal_aversion_elasmu_disutil,False,1,0.05,0.015,1
+3,inequal_aversion_elasmu_disutil,False,1,0.05,0.03,1
+4,inequal_aversion_elasmu_disutil,False,1,0.25,0.001,1
+5,inequal_aversion_elasmu_disutil,False,1,0.25,0.015,1
+6,inequal_aversion_elasmu_disutil,False,1,0.25,0.03,1
+7,inequal_aversion_elasmu_disutil,False,1,0.5,0.001,1
+8,inequal_aversion_elasmu_disutil,False,1,0.5,0.015,1
+9,inequal_aversion_elasmu_disutil,False,1,0.5,0.03,1
+10,inequal_aversion_elasmu_disutil,False,1,0.75,0.001,1
+11,inequal_aversion_elasmu_disutil,False,1,0.75,0.015,1
+12,inequal_aversion_elasmu_disutil,False,1,0.75,0.03,1
+13,inequal_aversion_elasmu_disutil,False,1,0.95,0.001,1
+14,inequal_aversion_elasmu_disutil,False,1,0.95,0.015,1
+15,inequal_aversion_elasmu_disutil,False,1,0.95,0.03,1
+16,inequal_aversion_elasmu_disutil,False,2,0.05,0.001,1
+17,inequal_aversion_elasmu_disutil,False,2,0.05,0.015,1
+18,inequal_aversion_elasmu_disutil,False,2,0.05,0.03,1
+19,inequal_aversion_elasmu_disutil,False,2,0.25,0.001,1
+20,inequal_aversion_elasmu_disutil,False,2,0.25,0.015,1
+21,inequal_aversion_elasmu_disutil,False,2,0.25,0.03,1
+22,inequal_aversion_elasmu_disutil,False,2,0.5,0.001,1
+23,inequal_aversion_elasmu_disutil,False,2,0.5,0.015,1
+24,inequal_aversion_elasmu_disutil,False,2,0.5,0.03,1
+25,inequal_aversion_elasmu_disutil,False,2,0.75,0.001,1
+26,inequal_aversion_elasmu_disutil,False,2,0.75,0.015,1
+27,inequal_aversion_elasmu_disutil,False,2,0.75,0.03,1
+28,inequal_aversion_elasmu_disutil,False,2,0.95,0.001,1
+29,inequal_aversion_elasmu_disutil,False,2,0.95,0.015,1
+30,inequal_aversion_elasmu_disutil,False,2,0.95,0.03,1
+31,inequal_aversion_elasmu_disutil,False,3,0.05,0.001,1
+32,inequal_aversion_elasmu_disutil,False,3,0.05,0.015,1
+33,inequal_aversion_elasmu_disutil,False,3,0.05,0.03,1
+34,inequal_aversion_elasmu_disutil,False,3,0.25,0.001,1
+35,inequal_aversion_elasmu_disutil,False,3,0.25,0.015,1
+36,inequal_aversion_elasmu_disutil,False,3,0.25,0.03,1
+37,inequal_aversion_elasmu_disutil,False,3,0.5,0.001,1
+38,inequal_aversion_elasmu_disutil,False,3,0.5,0.015,1
+39,inequal_aversion_elasmu_disutil,False,3,0.5,0.03,1
+40,inequal_aversion_elasmu_disutil,False,3,0.75,0.001,1
+41,inequal_aversion_elasmu_disutil,False,3,0.75,0.015,1
+42,inequal_aversion_elasmu_disutil,False,3,0.75,0.03,1
+43,inequal_aversion_elasmu_disutil,False,3,0.95,0.001,1
+44,inequal_aversion_elasmu_disutil,False,3,0.95,0.015,1
+45,inequal_aversion_elasmu_disutil,False,3,0.95,0.03,1
+46,inequal_aversion_elasmu_disutil,500 GtCO2,1,0.05,0.001,1
+47,inequal_aversion_elasmu_disutil,500 GtCO2,1,0.05,0.015,1
+48,inequal_aversion_elasmu_disutil,500 GtCO2,1,0.05,0.03,1
+49,inequal_aversion_elasmu_disutil,500 GtCO2,1,0.25,0.001,1
+50,inequal_aversion_elasmu_disutil,500 GtCO2,1,0.25,0.015,1
+51,inequal_aversion_elasmu_disutil,500 GtCO2,1,0.25,0.03,1
+52,inequal_aversion_elasmu_disutil,500 GtCO2,1,0.5,0.001,1
+53,inequal_aversion_elasmu_disutil,500 GtCO2,1,0.5,0.015,1
+54,inequal_aversion_elasmu_disutil,500 GtCO2,1,0.5,0.03,1
+55,inequal_aversion_elasmu_disutil,500 GtCO2,1,0.75,0.001,1
+56,inequal_aversion_elasmu_disutil,500 GtCO2,1,0.75,0.015,1
+57,inequal_aversion_elasmu_disutil,500 GtCO2,1,0.75,0.03,1
+58,inequal_aversion_elasmu_disutil,500 GtCO2,1,0.95,0.001,1
+59,inequal_aversion_elasmu_disutil,500 GtCO2,1,0.95,0.015,1
+60,inequal_aversion_elasmu_disutil,500 GtCO2,1,0.95,0.03,1
+61,inequal_aversion_elasmu_disutil,500 GtCO2,2,0.05,0.001,1
+62,inequal_aversion_elasmu_disutil,500 GtCO2,2,0.05,0.015,1
+63,inequal_aversion_elasmu_disutil,500 GtCO2,2,0.05,0.03,1
+64,inequal_aversion_elasmu_disutil,500 GtCO2,2,0.25,0.001,1
+65,inequal_aversion_elasmu_disutil,500 GtCO2,2,0.25,0.015,1
+66,inequal_aversion_elasmu_disutil,500 GtCO2,2,0.25,0.03,1
+67,inequal_aversion_elasmu_disutil,500 GtCO2,2,0.5,0.001,1
+68,inequal_aversion_elasmu_disutil,500 GtCO2,2,0.5,0.015,1
+69,inequal_aversion_elasmu_disutil,500 GtCO2,2,0.5,0.03,1
+70,inequal_aversion_elasmu_disutil,500 GtCO2,2,0.75,0.001,1
+71,inequal_aversion_elasmu_disutil,500 GtCO2,2,0.75,0.015,1
+72,inequal_aversion_elasmu_disutil,500 GtCO2,2,0.75,0.03,1
+73,inequal_aversion_elasmu_disutil,500 GtCO2,2,0.95,0.001,1
+74,inequal_aversion_elasmu_disutil,500 GtCO2,2,0.95,0.015,1
+75,inequal_aversion_elasmu_disutil,500 GtCO2,2,0.95,0.03,1
+76,inequal_aversion_elasmu_disutil,500 GtCO2,3,0.05,0.001,1
+77,inequal_aversion_elasmu_disutil,500 GtCO2,3,0.05,0.015,1
+78,inequal_aversion_elasmu_disutil,500 GtCO2,3,0.05,0.03,1
+79,inequal_aversion_elasmu_disutil,500 GtCO2,3,0.25,0.001,1
+80,inequal_aversion_elasmu_disutil,500 GtCO2,3,0.25,0.015,1
+81,inequal_aversion_elasmu_disutil,500 GtCO2,3,0.25,0.03,1
+82,inequal_aversion_elasmu_disutil,500 GtCO2,3,0.5,0.001,1
+83,inequal_aversion_elasmu_disutil,500 GtCO2,3,0.5,0.015,1
+84,inequal_aversion_elasmu_disutil,500 GtCO2,3,0.5,0.03,1
+85,inequal_aversion_elasmu_disutil,500 GtCO2,3,0.75,0.001,1
+86,inequal_aversion_elasmu_disutil,500 GtCO2,3,0.75,0.015,1
+87,inequal_aversion_elasmu_disutil,500 GtCO2,3,0.75,0.03,1
+88,inequal_aversion_elasmu_disutil,500 GtCO2,3,0.95,0.001,1
+89,inequal_aversion_elasmu_disutil,500 GtCO2,3,0.95,0.015,1
+90,inequal_aversion_elasmu_disutil,500 GtCO2,3,0.95,0.03,1
+91,inequal_aversion_elasmu_disutil,1150 GtCO2,1,0.05,0.001,1
+92,inequal_aversion_elasmu_disutil,1150 GtCO2,1,0.05,0.015,1
+93,inequal_aversion_elasmu_disutil,1150 GtCO2,1,0.05,0.03,1
+94,inequal_aversion_elasmu_disutil,1150 GtCO2,1,0.25,0.001,1
+95,inequal_aversion_elasmu_disutil,1150 GtCO2,1,0.25,0.015,1
+96,inequal_aversion_elasmu_disutil,1150 GtCO2,1,0.25,0.03,1
+97,inequal_aversion_elasmu_disutil,1150 GtCO2,1,0.5,0.001,1
+98,inequal_aversion_elasmu_disutil,1150 GtCO2,1,0.5,0.015,1
+99,inequal_aversion_elasmu_disutil,1150 GtCO2,1,0.5,0.03,1
+100,inequal_aversion_elasmu_disutil,1150 GtCO2,1,0.75,0.001,1
+101,inequal_aversion_elasmu_disutil,1150 GtCO2,1,0.75,0.015,1
+102,inequal_aversion_elasmu_disutil,1150 GtCO2,1,0.75,0.03,1
+103,inequal_aversion_elasmu_disutil,1150 GtCO2,1,0.95,0.001,1
+104,inequal_aversion_elasmu_disutil,1150 GtCO2,1,0.95,0.015,1
+105,inequal_aversion_elasmu_disutil,1150 GtCO2,1,0.95,0.03,1
+106,inequal_aversion_elasmu_disutil,1150 GtCO2,2,0.05,0.001,1
+107,inequal_aversion_elasmu_disutil,1150 GtCO2,2,0.05,0.015,1
+108,inequal_aversion_elasmu_disutil,1150 GtCO2,2,0.05,0.03,1
+109,inequal_aversion_elasmu_disutil,1150 GtCO2,2,0.25,0.001,1
+110,inequal_aversion_elasmu_disutil,1150 GtCO2,2,0.25,0.015,1
+111,inequal_aversion_elasmu_disutil,1150 GtCO2,2,0.25,0.03,1
+112,inequal_aversion_elasmu_disutil,1150 GtCO2,2,0.5,0.001,1
+113,inequal_aversion_elasmu_disutil,1150 GtCO2,2,0.5,0.015,1
+114,inequal_aversion_elasmu_disutil,1150 GtCO2,2,0.5,0.03,1
+115,inequal_aversion_elasmu_disutil,1150 GtCO2,2,0.75,0.001,1
+116,inequal_aversion_elasmu_disutil,1150 GtCO2,2,0.75,0.015,1
+117,inequal_aversion_elasmu_disutil,1150 GtCO2,2,0.75,0.03,1
+118,inequal_aversion_elasmu_disutil,1150 GtCO2,2,0.95,0.001,1
+119,inequal_aversion_elasmu_disutil,1150 GtCO2,2,0.95,0.015,1
+120,inequal_aversion_elasmu_disutil,1150 GtCO2,2,0.95,0.03,1
+121,inequal_aversion_elasmu_disutil,1150 GtCO2,3,0.05,0.001,1
+122,inequal_aversion_elasmu_disutil,1150 GtCO2,3,0.05,0.015,1
+123,inequal_aversion_elasmu_disutil,1150 GtCO2,3,0.05,0.03,1
+124,inequal_aversion_elasmu_disutil,1150 GtCO2,3,0.25,0.001,1
+125,inequal_aversion_elasmu_disutil,1150 GtCO2,3,0.25,0.015,1
+126,inequal_aversion_elasmu_disutil,1150 GtCO2,3,0.25,0.03,1
+127,inequal_aversion_elasmu_disutil,1150 GtCO2,3,0.5,0.001,1
+128,inequal_aversion_elasmu_disutil,1150 GtCO2,3,0.5,0.015,1
+129,inequal_aversion_elasmu_disutil,1150 GtCO2,3,0.5,0.03,1
+130,inequal_aversion_elasmu_disutil,1150 GtCO2,3,0.75,0.001,1
+131,inequal_aversion_elasmu_disutil,1150 GtCO2,3,0.75,0.015,1
+132,inequal_aversion_elasmu_disutil,1150 GtCO2,3,0.75,0.03,1
+133,inequal_aversion_elasmu_disutil,1150 GtCO2,3,0.95,0.001,1
+134,inequal_aversion_elasmu_disutil,1150 GtCO2,3,0.95,0.015,1
+135,inequal_aversion_elasmu_disutil,1150 GtCO2,3,0.95,0.03,1

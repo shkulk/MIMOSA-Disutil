@@ -1,0 +1,29 @@
+SSP: "SSP2"
+
+emissions:
+  carbonbudget: False
+  baseline carbon intensity: False
+
+economics:
+  PRTP: 0.015
+  elasmu: 1.001
+  disutility_damage_factor: 2 
+  emdd: -1.001
+  GDP:
+    alpha: 0.3
+    depreciation of capital: 0.05
+    savings rate: 0.21
+  MAC:
+    beta: 2
+    rho: 0.82
+    gamma: 2442 USD2005/tCO2
+  damages:
+    scale factor: 1
+    ignore damages: False
+    quantile: 0.5 # Only used for COACCH
+    coacch_slr_withadapt: True # Only used for COACCH
+
+model:
+  allow trade: False
+  welfare module: inequal_aversion_elasmu_disutil # inequal_aversion_elasmu_disutil
+  objective module: utility

@@ -1,0 +1,42 @@
+def read(filename):
+    try:
+        data = pd.read_csv(filename).drop(columns="Unit", errors="ignore")
+    except FileNotFoundError:
+        return None
+
+    # Make certain variables absolute
+    data_indexed = data.set_index(["Variable", "Region"])
+    for var in ["damage_costs", "resid_damages", "adapt_costs", "SLR_damages"]:
+        data = pd.concat(
+            [
+                data,
+                (data_indexed.loc[["GDP_net"]] * data_indexed.loc[var])
+                .reset_index()
+                .replace({"GDP_net": f"{var}_absolute"}),
+            ]
+        )
+
+    # Make certain variables global
+    make_global = [
+        "population",
+        "damage_costs_absolute",
+        "resid_damages_absolute",
+        "adapt_costs_absolute",
+        "SLR_damages_absolute",
+    ]
+    selection = data[data["Variable"].isin(make_global)]
+    extra_global = selection.groupby("Variable").sum().reset_index()
+
+    extra_global[
+        "Variable"
+    ] += "_global"  # Add _global suffix to variable name to avoid confusion
+    extra_global.insert(1, "Region", "Global")
+
+    data = pd.concat([data, extra_global])
+
+    return data.set_index(["Variable", "Region"])
+
+
+# to use:
+data = read("outputfolder/filename.csv")
+
